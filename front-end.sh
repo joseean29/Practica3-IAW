@@ -10,10 +10,10 @@ IP_PRIVADA_MYSQL=172.31.36.221
 set -x
 
 #Actualizamos la lista de paquetes Ubuntu
-apt update -y
+#apt update -y
 
 #Actualizamos los paquetes instalados
-apt upgrade -y
+#apt upgrade -y
 
 
 #----------------

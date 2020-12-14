@@ -2,7 +2,7 @@
 
 #Declaración de todas las variables de utilidad
 DB_ROOT_PASSWD=root
-IP_PRIVADA_MYSQL=172.31.42.252
+IP_PRIVADA_MYSQL=172.31.36.221
 
 
 #Activamos la depuración del script
